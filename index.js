@@ -73,3 +73,4 @@ const fizzBuzz = (n) => {
  }
  return answer;
 }
+console.log(fizzBuzz(3));
