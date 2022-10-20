@@ -7,6 +7,7 @@
 2. UGLY NUMBER
 3. FIZZ BUZZ
 4. SORT ARRAY BY PARITY 
+5. LARGEST NUMBER AFTER DIGIT SWAPS PARITY
 
 ## Extra code solutions to problems I attempt for fun.      
 
