@@ -28,7 +28,7 @@ const mostCommonWords = (str, x) => {
   let mostCommonWord = '';                           // create a variable to store the most common word
   let count = 0;                                     // create a variable to store the count
   for (let j = 0; j < words.length; j++) {           // loop through the array
-   let currentCount = 0;                             // create a variable to store the current count
+   let currentCount = 0;                             // create a variable to store the current count 
    for (let k = 0; k < words.length; k++) {          // loop through the array
     if (words[j] === words[k]) {                     // if the word is the same as the current word
      currentCount++;                                // add to the current count
