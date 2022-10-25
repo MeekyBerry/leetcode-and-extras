@@ -1,6 +1,6 @@
 
 
-/*----------                               SORT ARRAY BY PARITY                            ----------*/
+/*----------        SORT ARRAY BY PARITY             ----------*/
 /*=============================================
 // Given an integer array n, move all the even integers at the beginning of the array followed by all the odd integers.
 // Return an array that satisfies this condition.
