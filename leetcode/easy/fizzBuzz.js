@@ -11,7 +11,7 @@
  =============================================*/
 const fizzBuzz = (n) => {                            // function that takes in a number
  let answer = [];                                    // create an empty array
- for (let i = 1; i <= n; i++) {                      // loop through the numbers from 1 to n
+ for (let i = 1; i <= n; i++) {                      // loop through the numbers from 1 to n 
   if (i % 3 === 0 && i % 5 === 0) {                  // if the number is divisible by 3 and 5
    answer.push("FizzBuzz");                          // add "FizzBuzz" to the array
   } else if (i % 3 === 0) {                          // if the number is divisible by 3
@@ -24,4 +24,6 @@ const fizzBuzz = (n) => {                            // function that takes in a
  }
  return answer;                                       // return the array
 }
-console.log(fizzBuzz(3));
+console.log(fizzBuzz(3));   // ["1", "2", "Fizz"]
+console.log(fizzBuzz(5));   // ["1", "2", "Fizz", "4", "Buzz"]
+console.log(fizzBuzz(15));  // ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "Buzz", "11", "Fizz", "13", "14", "FizzBuzz"]
