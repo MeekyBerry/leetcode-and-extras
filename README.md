@@ -8,6 +8,12 @@
 3. FIZZ BUZZ
 4. SORT ARRAY BY PARITY 
 5. LARGEST NUMBER AFTER DIGIT SWAPS PARITY
+6. Palindrome Number
+7. Check If Two Strings are Equivalent
+8. Two Sum
+9. Roman to Integer
+10. Remove Duplicates from Sorted Array
+11. Valid Palindrome
 
 ## Extra code solutions to problems I attempt for fun.      
 
