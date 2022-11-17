@@ -1,8 +1,8 @@
 # LeetCode & Extras
+* Code for LeetCode problems I have attempted and some extra functions.
 
-## Code for LeetCode problems I've done.
-
-### Problems Solved FROM LEETCODE CHALLENGES
+## Problems Solved FROM LEETCODE CHALLENGES
+### Easy Category
 1. SECOND LARGEST DIGIT IN A STRING
 2. UGLY NUMBER
 3. FIZZ BUZZ
@@ -30,4 +30,4 @@ But I am learning to be a professional programmer.
 ### "I am not a great programmer; I am just a good programmer with great habits." - Kent Beck     
 
 You can find the problems on [LeetCode](https://leetcode.com/problemset/algorithms/)   
-My profile on [LeetCode](https://leetcode.com/meekyberry/)
+My profile on [LeetCode](https://leetcode.com/meekyberry/) & [Submissions](https://leetcode.com/submissions/#/1)
