@@ -3,11 +3,11 @@
 
 ## Problems Solved FROM LEETCODE CHALLENGES
 ### Easy Category
-1. SECOND LARGEST DIGIT IN A STRING
-2. UGLY NUMBER
-3. FIZZ BUZZ
-4. SORT ARRAY BY PARITY 
-5. LARGEST NUMBER AFTER DIGIT SWAPS PARITY
+1. Second Largest Digit in a String
+2. Ugly Number
+3. Fizz Buzz
+4. Sort Array by Parity
+5. Largest Number After Digit Swaps Parity
 6. Palindrome Number
 7. Check If Two Strings are Equivalent
 8. Two Sum
