@@ -24,15 +24,15 @@
  */
 
 const twoSum = (nums, target) => {
- let map = new Map();             // create a map to store the values and their indices in the array nums
- for (let i = 0; i < nums.length; i++) {   // iterate through the array nums
-  if (map.has(target - nums[i])) {      // if the map has the difference between the target and the current value in the array nums
-   return [map.get(target - nums[i]), i];  // return the index of the difference and the current index
+ let map = new Map();             // create a map to store the values and their indices in the array nums 
+ for (let i = 0; i < nums.length; i++) {   // iterate through the array nums  
+  if (map.has(target - nums[i])) {      // if the map has the difference between the target and the current value in the array nums  
+   return [map.get(target - nums[i]), i];  // return the index of the difference and the current index 
   }
-  map.set(nums[i], i);           // if the map does not have the difference, add the current value in the array nums and its index to the map
+  map.set(nums[i], i);           // if the map does not have the difference, add the current value in the array nums and its index to the map 
  }
 };
 
-console.log(twoSum([2, 7, 11, 15], 9));   // [0, 1]
+console.log(twoSum([2, 7, 11, 15], 9));   // [0, 1] 
 console.log(twoSum([3, 2, 4], 6));        // [1, 2]
 console.log(twoSum([3, 3], 6));           // [0, 1]
