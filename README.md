@@ -1,13 +1,19 @@
 # LeetCode & Extras
+* Code for LeetCode problems I have attempted and some extra functions.
 
-## Code for LeetCode problems I've done.
-
-### Problems Solved FROM LEETCODE CHALLENGES
-1. SECOND LARGEST DIGIT IN A STRING
-2. UGLY NUMBER
-3. FIZZ BUZZ
-4. SORT ARRAY BY PARITY 
-5. LARGEST NUMBER AFTER DIGIT SWAPS PARITY
+## Problems Solved FROM LEETCODE CHALLENGES
+### Easy Category
+1. Second Largest Digit in a String
+2. Ugly Number
+3. Fizz Buzz
+4. Sort Array by Parity
+5. Largest Number After Digit Swaps Parity
+6. Palindrome Number
+7. Check If Two Strings are Equivalent
+8. Two Sum
+9. Roman to Integer
+10. Remove Duplicates from Sorted Array
+11. Valid Palindrome
 
 ## Extra code solutions to problems I attempt for fun.      
 
@@ -24,4 +30,4 @@ But I am learning to be a professional programmer.
 ### "I am not a great programmer; I am just a good programmer with great habits." - Kent Beck     
 
 You can find the problems on [LeetCode](https://leetcode.com/problemset/algorithms/)   
-My profile on [LeetCode](https://leetcode.com/meekyberry/)
+My profile on [LeetCode](https://leetcode.com/meekyberry/) & [Submissions](https://leetcode.com/submissions/#/1)
