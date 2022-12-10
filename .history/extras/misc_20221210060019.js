@@ -1,14 +1,16 @@
+
 const getStarted = () => {
-  window.location.href = "/users"; // Redirect the user to the users component when the get started button is clicked
-};
+ window.location.href = "/users"; // Redirect the user to the users component when the get started button is clicked
+}
+
 
 //Giving an unsorted array of n elements, find if K is present in the array or not. the function must return a string YES or NO denoting if the element is present or not
 
 function findNumber(arr, k) {
-  let result = "NO";
+  let result = 'NO';
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] === k) {
-      result = "YES";
+    result = 'YES';
     }
   }
   return result;
@@ -39,6 +41,7 @@ function plusMinus(arr) {
 
 plusMinus([-4, 3, -9, 0, 4, 1]); // 0.500000 | // 0.333333 | // 0.166667
 
+
 // Give two integers, l and r, print all the odd numbers between l and r (l and r inclusive)
 function oddNumbers(l, r) {
   let result = [];
@@ -52,3 +55,4 @@ function oddNumbers(l, r) {
 
 console.log(oddNumbers(2, 5)); // [3, 5]
 console.log(oddNumbers(3, 9)); // [3, 5, 7, 9]
+
