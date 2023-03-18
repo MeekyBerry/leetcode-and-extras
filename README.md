@@ -14,6 +14,17 @@
 9. Roman to Integer
 10. Remove Duplicates from Sorted Array
 11. Valid Palindrome
+12. Remove Element
+13. Valid Parentheses
+14. Best Time to Buy and Sell Stock
+15. Count Odd Numbers in an Interval Range
+16. Average Salary Excluding the Minimum and Maximum Salary
+17. Length of Last Word
+
+### Medium Category
+1. Add Two Numbers
+2. Guess Number Higher or Lower II
+3. Sort Colors
 
 ## Extra code solutions to problems I attempt for fun.      
 
@@ -24,6 +35,7 @@
 
 ### Skill Gained/Used
 * DSA  
+* Critical thinking / Holistic views 
 Note: I am not a professional programmer, I am a student!    
 But I am learning to be a professional programmer.
 
